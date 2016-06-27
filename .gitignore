@@ -1,9 +1,11 @@
+# Keep these files out of the repo
 /themes/twenty*
 /upgrade
 /uploads
 /sitemap.*
 /wp-config.php
 *.sql
+debug.log
 
 # Hidden files
 *.DS_Store
